@@ -7,7 +7,6 @@ A simple **Amazon homepage clone** built as a frontend practice project using **
 
 The project focuses on recreating the basic layout, styling, product sections, and footer of Amazon's website.
 
-
 ## Project Structure
 
 ```text
